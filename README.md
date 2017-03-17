@@ -19,8 +19,9 @@ Or install it yourself as:
     $ gem install kaushal_view_tool
 
 ## Usage
-
-TODO: Write usage instructions here
+```ruby
+KaushalViewTool::Renderer.copyright 'Kaushal Ninja', 'All rights reserved'
+```
 
 ## Development
 
